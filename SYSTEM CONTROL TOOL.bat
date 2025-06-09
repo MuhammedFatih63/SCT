@@ -25,11 +25,11 @@ echo.
 echo ╔════════════════════════════════════════════════════════════════╗
 echo ║                     SYSTEM CONTROL TOOLKIT                     ║
 echo ╠════════════════════════════════════════════════════════════════╣
-echo ║ 1. Manage User Permissions                                      ║
+echo ║ 1. Manage User Permissions                                     ║
 echo ║ 2. List Open Ports                                             ║
-echo ║ 3. Windows Defender Status                                      ║
+echo ║ 3. Windows Defender Status                                     ║
 echo ║ 4. Firewall Rules                                              ║
-echo ║ 5. USB Connection History                                       ║
+echo ║ 5. USB Connection History                                      ║
 echo ║ 6. Active Sessions and Login Attempts                          ║
 echo ║ 7. List Admin Group Members                                    ║
 echo ║ 8. System Auto-Report (HTML)                                   ║
